@@ -1,0 +1,8 @@
+jika umur < 18 maka dapat diskon 80% 
+else 10%
+
+if umur<10 then
+	Discount 0.8*harga
+	else
+		Discount 0.1*harga
+endif

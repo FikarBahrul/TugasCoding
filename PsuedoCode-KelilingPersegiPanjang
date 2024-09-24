@@ -1,0 +1,6 @@
+START
+   Input p
+   Input l
+   SET kel = 2 * (p + l)
+   Output kel
+END
